@@ -56,8 +56,8 @@
 1. **克隆项目仓库**
 
    ```bash
-   git clone [仓库URL]
-   cd [项目文件夹名]
+   git clone https://github.com/jonbrown66/CherryFox.git
+   cd CherryFox
    ```
 
 2. **安装依赖**
