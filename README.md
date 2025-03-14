@@ -1,5 +1,10 @@
 # 现代风格 React 企业网站
 
+![image](https://github.com/user-attachments/assets/3718ed68-f594-4c77-82e0-e64216bd4917)
+
+演示网址：https://cherry-fox.vercel.app/
+
+
 ## 项目简介
 
 这是一个基于 React、Tailwind CSS 和 Framer Motion 开发的现代风格企业官网模板。项目采用组件化开发方式，具有完全响应式设计和丰富的动画效果，适合企业展示、产品宣传和服务介绍等场景使用。
