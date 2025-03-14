@@ -31,7 +31,7 @@ function App() {
   }, [isOpen]);
 
   return (
-    <ThemeProvider>
+    <ThemeProvider defaultTheme="light">
       <div className="min-h-screen bg-white dark:bg-gray-900 transition-colors duration-300">
         <Navbar toggle={toggle} />
         <Sidebar isOpen={isOpen} toggle={toggle} />
