@@ -43,28 +43,6 @@
    - 无图片依赖，减少网络请求
 
 
-### 项目根目录/
-├── public/ # 静态资源
-│ ├── index.html # HTML 模板
-│ ├── favicon.ico # 网站图标
-│ └── ...
-├── src/ # 源代码
-│ ├── components/ # React 组件
-│ │ ├── Hero.js # 英雄区组件 - 网站主视觉区域
-│ │ ├── Navbar.js # 导航栏组件 - 页面顶部导航
-│ │ ├── Sidebar.js # 侧边栏组件 - 移动端菜单
-│ │ ├── About.js # 关于我们组件 - 企业简介
-│ │ ├── Features.js # 功能特点组件 - 产品功能展示
-│ │ ├── Services.js # 服务项目组件 - 服务内容展示
-│ │ ├── Pricing.js # 价格方案组件 - 产品/服务定价
-│ │ ├── FAQ.js # 常见问题组件 - 问答模块
-│ │ └── Footer.js # 页脚组件 - 底部信息
-│ ├── App.js # 主应用组件 - 组件组合
-│ ├── index.js # 应用入口文件
-│ └── index.css # 全局样式和 Tailwind 导入
-├── package.json # 项目依赖配置
-├── postcss.config.js # PostCSS 配置 (用于 Tailwind)
-└── tailwind.config.js # Tailwind CSS 配置
 
 ## 安装与使用
 
